@@ -1,0 +1,13 @@
+{
+  "background_color": "#35615b",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "ShopCalc Pro",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "ShopCalc Pro",
+  "start_url": "/",
+  "theme_color": "rgb(65, 46, 112)",
+  "description": "E-Commerce Dropshipping &amp; Profit Calculator Tool",
+  "id": "ShopCalc Pro"
+}
